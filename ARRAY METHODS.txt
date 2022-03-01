@@ -1,0 +1,22 @@
+The pop() method removes the last element from an array:
+
+fruits.toString();
+
+fruits[0] = "Kiwi";
+
+fruits.length
+
+myGirls.concat(myBoys);
+
+fruits.splice(2, 0, "Lemon", "Kiwi");
+
+fruits.splice(0, 1); [ SPLICE METHOD CAN ADD DELETE ITEMS AT ANY POSITION SPECIFEID THAT WHY
+ 			I DONT USE POP,PUSH ,SHIFT AND UNSHIFT METHODS ]
+
+fruits.slice(1); [SLICE METHOD SLICE ITEMS FROM SPECIFED POSITION INTO A NEW ARRAY ]
+		   IF ONLY ONE VALUE IS GIVEN IT WILL START COUNTING FROM 0 AND WHEN THAT 
+		   VALUE IS MATCHED IT WILL SLICE FROM THAT VALUE TILL END .
+
+		   AND IT FOR THE SECOND VALUE IT WILL GO ONE MINUS TILL THAT VALUE FROM 0
+
+fruits.slice(1, 3);
