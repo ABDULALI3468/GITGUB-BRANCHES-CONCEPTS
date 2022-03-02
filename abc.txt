@@ -1,5 +1,9 @@
+<<<<<<< HEAD
 Line no 1
 Line no 2
 
 
 
+=======
+LINE NO 1
+>>>>>>> 243f879b5f95542cf23603b896587be93f605aca
